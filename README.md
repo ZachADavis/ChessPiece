@@ -14,7 +14,7 @@ ChessPiece is a reimagined chess game, inspired by the world of One Piece. The g
 ## Technologies Used
 
 - **Language**: C# - The primary language used for game development.
-- **Game Engine**: Unity/MonoGame (choose the engine you're using for development).
+- **Game Engine**: MonoGame.
 - **Development Environment**: Visual Studio for coding and debugging.
 
 ## Getting Started
@@ -30,7 +30,7 @@ ChessPiece is a reimagined chess game, inspired by the world of One Piece. The g
     ```bash
     git clone https://github.com/PretentiousJinx/ChessPiece.git
     ```
-2. Open the project in your chosen game engine (Unity or MonoGame).
+2. Open the project in Microsoft Visual Studio/Code.
 3. Build and run the game to start playing!
 
 ## License
